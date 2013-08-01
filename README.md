@@ -18,7 +18,8 @@ In this mode you can't edit the source file, you only can view the comment.
 
 Insert a new comment, all comment won't influence the source file, so you can store anything here.
 
-All comment is mark by color, just edit in this area.**At this moment you can edit the source code,but DON NOT.**
+All comment is mark by color, just edit in this area.
+**At this moment you can edit the source code,but DON NOT.**
 
 After make some comment, save the file an usual, it will handle the source file and the comment.
 
