@@ -1,0 +1,14 @@
+[
+	{
+		"keys": ["ctrl+alt+e"],
+		"command": "comment_mode_on"
+	},
+	{
+		"keys": ["ctrl+shift+e"],
+		"command": "comment_mode_off"
+	},
+	{
+		"keys": ["ctrl+e"],
+		"command": "insert_comment"
+	}
+]
